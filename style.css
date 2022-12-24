@@ -8,3 +8,8 @@
 section {
   padding-top: 4rem;
 }
+.text-c {
+  background: linear-gradient(270deg, #3f5efb, #fc466b);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
