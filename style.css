@@ -1,0 +1,10 @@
+.jumbotron {
+  background: linear-gradient(0deg, rgba(34, 193, 195, 1) 0%, rgba(33, 37, 41, 1) 92%);
+}
+#Gallery {
+  background: linear-gradient(0deg, rgba(34, 193, 195, 1) 0%, rgba(33, 37, 41, 1) 92%);
+  background: rgb(34, 193, 195);
+}
+section {
+  padding-top: 4rem;
+}
