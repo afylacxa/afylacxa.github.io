@@ -1,0 +1,41 @@
+.jumbotron {
+  background: rgb(226, 232, 240);
+  background: linear-gradient(0deg, rgba(226, 232, 240, 1) 0%, rgba(133, 205, 253, 1) 100%);
+}
+section {
+  padding-top: 3.6rem;
+}
+#footer {
+  background-color: #85cdfd;
+}
+#sosial {
+  background-color: #f3f4f5;
+}
+#music {
+  background-color: #c84858;
+}
+#project {
+  background-color: #e2e8f0;
+}
+/* font font */
+/* di bagian project and about me*/
+.kata-project-about {
+  font-family: "Bangers", cursive;
+}
+/* kata di bagian contact */
+.kata-contact {
+  font-family: "Rubik Glitch", cursive;
+}
+/* kataBrand di navbar */
+.kata-brand {
+  font-family: "Rampart One", cursive;
+}
+.kata-spotify {
+  font-family: "Rowdies", cursive;
+}
+/* katalis di profile */
+.katalis {
+  font-family: "Permanent Marker", cursive;
+}
+
+/* spotify resvonsive */
